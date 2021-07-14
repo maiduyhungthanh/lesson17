@@ -1,0 +1,10 @@
+[{"id":1,"name":"Figures in a Landscape","publishing":"Hegmann-Barton","year":2001,"page":169,"status":"XS","amount":36,"borrow":29},
+{"id":2,"name":"Polar Express, The","publishing":"Braun Inc","year":1996,"page":403,"status":"XL","amount":36,"borrow":4},
+{"id":3,"name":"Final Approach","publishing":"Kessler, Hoppe and Schaefer","year":1990,"page":138,"status":"2XL","amount":44,"borrow":10},
+{"id":4,"name":"Wrong Turn 4","publishing":"Jones, Russel and Maggio","year":2004,"page":209,"status":"L","amount":40,"borrow":19},
+{"id":5,"name":"Beethoven's Big Break","publishing":"Reichert Inc","year":2019,"page":251,"status":"XS","amount":44,"borrow":2},
+{"id":6,"name":"Persian Cats","publishing":"Becker, Fritsch and Waelchi","year":1982,"page":251,"status":"XS","amount":30,"borrow":28},
+{"id":7,"name":"Goldene Zeiten","publishing":"Schultz-Krajcik","year":2007,"page":978,"status":"M","amount":41,"borrow":21},
+{"id":8,"name":"Into the Woods","publishing":"Leannon-Emmerich","year":1984,"page":433,"status":"XS","amount":40,"borrow":26},
+{"id":9,"name":"Orlando","publishing":"Franecki Inc","year":1981,"page":793,"status":"XS","amount":46,"borrow":16},
+{"id":10,"name":"Alice Upside Down (Alice)","publishing":"Conroy-Hyatt","year":1986,"page":74,"status":"XS","amount":30,"borrow":24}]
